@@ -4,3 +4,9 @@ templates
 _layouts
 CNAME~
 index.html~
+
+*.html~
+
+.gitignore~
+
+*.db
